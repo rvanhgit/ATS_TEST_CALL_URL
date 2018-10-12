@@ -1,0 +1,3 @@
+channel-start -> 1 -> chrome
+goto-url -> google.fr
+channel-close -> 1

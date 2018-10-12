@@ -1,0 +1,15 @@
+[ats-header]
+
+id -> 
+author -> TEST_Win8\omg
+created -> 2018-10-11 at 16:11:31
+prerequisite -> 
+description -> 
+groups -> default
+
+[ats-variables]
+
+
+[ats-actions]
+
+subscript -> subscripts.SS

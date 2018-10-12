@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" verbose="1">
+  <test name="testMain">
+    <groups>
+      <run>
+        <include name="default"/>
+      </run>
+    </groups>
+    <packages>
+      <package name="forma.*"/>
+      <package name="subscripts.*"/>
+    </packages>
+  </test>
+</suite>
