@@ -1,0 +1,11 @@
+<atsProject>
+  <domain>com.functional</domain>
+  <name>Test-ATS</name>
+  <version>0.0.1</version>
+  <description>ATS project created with Agilitest Editor</description>
+  <groups>
+    <group>default</group>
+    <group>google</group>
+  </groups>
+  <environment/>
+</atsProject>
